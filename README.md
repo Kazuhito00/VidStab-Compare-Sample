@@ -3,6 +3,10 @@
 
 https://github.com/Kazuhito00/VidStab-Compare-Sample/assets/37477845/064bc2c7-c456-4354-9272-6fc7fef283c7
 
+# Requirement 
+* opencv-contrib-python 4.9.0.80 or later
+* vidstab 1.7.4 or later
+
 # Usage
 ```
 python main.py
